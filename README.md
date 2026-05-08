@@ -2,6 +2,8 @@
 
 A frontend-only ComfyUI extension that adds a **Groups** sidebar tab listing every root-level group in the active workflow. Each row gives you a one-click bypass toggle and a jump-to-group anchor — no more hunting through a sprawling canvas.
 
+![Group Manager sidebar in ComfyUI](docs/screenshot.png)
+
 ## Features
 
 - **Sorted list** of all root-level groups in the current workflow (natural alphanumeric order, so `01-` comes before `10-`).
