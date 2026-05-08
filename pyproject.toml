@@ -2,6 +2,7 @@
 name = "comfyui-group-manager"
 description = "Adds a Groups sidebar tab listing every root-level workflow group with a bypass/enable toggle and a jump-to-group button."
 version = "1.0.0"
+license = { text = "MIT" }
 dependencies = []
 
 [project.urls]

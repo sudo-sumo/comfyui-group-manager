@@ -42,3 +42,7 @@ Once published to the [ComfyUI Registry](https://registry.comfy.org/), search fo
 - **Bypass is a flat ALWAYS↔BYPASS flip.** Nodes manually set to mute (`mode 2`) inside a group will be overwritten when you toggle. The extension does not currently remember per-node prior modes.
 - **Saving the workflow** persists the in-memory group order. Sorting in the sidebar does not mutate the workflow file unless you save afterward.
 - Subgraph contents are not listed — only top-level workflow groups (which is all LiteGraph supports anyway).
+
+## License
+
+[MIT](LICENSE)
